@@ -2,6 +2,7 @@
 console.log('TuesDay');
 let myName = 'Raghul';
 let employeeName = "Raghul";
+console.log(employeeName);
 let count = 7;
 let isPermanent = true;
 let multiply = (num) => {

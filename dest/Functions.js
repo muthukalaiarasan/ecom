@@ -40,3 +40,22 @@
 //     return a + b
 //  } 
 // console.log(add(10)); // Use = for default values
+// Function with Type Alias
+// type StrORNum = string | number
+// let add = (a:number, b:number=20, c:StrORNum=10):number => {
+//     if(typeof c==='number'){
+//     return a + b + c
+//     }
+//     console.log(c);
+//     return a + b
+//  } 
+// console.log(add(10));  // Here we declare string|number in StrOrNum.
+// Function rest params
+let add = (a, b = 20, c = 20) => {
+    if (typeof c === 'number') {
+        return a + b + c;
+    }
+    console.log(c);
+    return a + b;
+};
+console.log(add(10));

@@ -4,6 +4,9 @@ let myName = 'Raghul'
 
 let employeeName:string = "Raghul"
 
+console.log(employeeName);
+
+
 let count:number = 7
 
 let isPermanent:boolean = true
