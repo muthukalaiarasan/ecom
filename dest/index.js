@@ -1,14 +1,14 @@
 "use strict";
-console.log('TuesDay');
-let myName = 'Raghul';
-let employeeName = "Raghul";
-console.log(employeeName);
-let count = 7;
-let isPermanent = true;
-let multiply = (num) => {
-    return 10 * num;
-};
-console.log(multiply(20));
+// console.log('TuesDay');
+// let myName = 'Raghul'
+// let employeeName:string = "Raghul"
+// console.log(employeeName);
+// let count:number = 7
+// let isPermanent:boolean = true
+// let multiply = (num:number) => {
+//     return 10 * num
+// }
+// console.log(multiply(20));
 /*Implicit start*/
 // let numArray = [1,2,3]
 // numArray.push(4)

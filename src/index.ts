@@ -1,21 +1,21 @@
-console.log('TuesDay');
+// console.log('TuesDay');
 
-let myName = 'Raghul'
+// let myName = 'Raghul'
 
-let employeeName:string = "Raghul"
+// let employeeName:string = "Raghul"
 
-console.log(employeeName);
+// console.log(employeeName);
 
 
-let count:number = 7
+// let count:number = 7
 
-let isPermanent:boolean = true
+// let isPermanent:boolean = true
 
-let multiply = (num:number) => {
-    return 10 * num
-}
+// let multiply = (num:number) => {
+//     return 10 * num
+// }
 
-console.log(multiply(20));
+// console.log(multiply(20));
 
 
 /*Implicit start*/ 

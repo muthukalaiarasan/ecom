@@ -19,15 +19,15 @@
 
 //Object
 
-type UserName = string
-type Age = number 
-type YesorNo = boolean
+// type UserName = string
+// type Age = number 
+// type YesorNo = boolean
 
 
-type User ={
-    name:UserName,
-    age:Age,
-    isMale:YesorNo
-}
+// type User ={
+//     name:UserName,
+//     age:Age,
+//     isMale:YesorNo
+// }
 
-let user:User = {name:"raghul", age:21, isMale:true}
+// let user:User = {name:"raghul", age:21, isMale:true}

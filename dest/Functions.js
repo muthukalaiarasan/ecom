@@ -51,11 +51,11 @@
 //  } 
 // console.log(add(10));  // Here we declare string|number in StrOrNum.
 // Function rest params
-let add = (a, b = 20, c = 20) => {
-    if (typeof c === 'number') {
-        return a + b + c;
-    }
-    console.log(c);
-    return a + b;
-};
-console.log(add(10));
+// let add = (a:number, b:number=20, c:number=20):number => {
+//     if(typeof c==='number'){
+//     return a + b + c
+//     }
+//     console.log(c);
+//     return a + b
+//  } 
+// console.log(add(10));
